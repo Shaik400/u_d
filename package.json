@@ -59,6 +59,7 @@
       },
       "scripts": {
           "dev": "vite",
+          "outputDirectory": "dist",
           "build": "vite build"
       }
   }
